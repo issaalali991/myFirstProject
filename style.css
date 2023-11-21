@@ -112,7 +112,7 @@ a{
 }
 a:hover{
   color:#001B79;
-  color: #c0c0c0;
+  color: #c0c0c1;
 
   transition-property: background-color color;
   transition-duration: 2s;
